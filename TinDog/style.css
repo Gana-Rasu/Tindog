@@ -1,0 +1,96 @@
+body{
+    font-family: 'Staatliches', cursive;
+    background-color: #c4263e;
+    color: white;
+}
+
+
+
+#heading{
+    font-family: 'Anton', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+
+  #iphone{
+    width: 60%;
+    transform: rotate(25deg);
+}  
+
+.navbar-brand{
+    font-size: 2.5rem;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+}
+
+.nav-item
+{
+    padding: 0 18px;
+    font-size: 1.5rem;
+}
+button{
+    margin: 5% 3% 5% 0;
+}
+
+#strip1{
+ color:#c4263e;   
+}
+
+h1 {
+    color: black;
+}
+p{
+    color:gray;
+}
+
+.icon{
+
+margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: red;
+}
+
+.testimonial-image{
+    border-radius: 100%;
+    width: 10%;
+    margin: 5px 0 5px 5px;
+}
+
+#press{
+    background-color:#c4263e;   
+}
+
+.press-img{
+    width: 20%;
+   margin: 1rem;
+}
+
+.call{
+    font-size: 3rem;
+}
+
+.dogtype{
+    font-size: 3rem;
+}
+
+#test_button{
+    padding: 0;
+}
+
+/* #strip1{
+
+z-index: 1;
+position: absolute;
+background-color: white;
+
+}
+
+#Title{
+
+z-index: -1;
+position: absolute;
+
+} */
